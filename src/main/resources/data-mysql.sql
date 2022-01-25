@@ -1,0 +1,1 @@
+INSERT INTO customerdemorest.customers VALUES (1, 'Ivan', 'Ivanov', 'Ukraine, Kiev, Kommun, 1', 10000.00);
